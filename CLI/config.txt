@@ -1,0 +1,4 @@
+Total Number of Tickets: 30
+Ticket Release Rate (per vendor): 2 tickets
+Time Between Ticket Releases: 1000 milliseconds
+Maximum Ticket Capacity: 5 tickets
